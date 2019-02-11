@@ -2,7 +2,7 @@
 
 Authors:
 
-    Peter Polidoro <polidorop@janelia.hhmi.org>
+    Bruno Afonso <bafonso@gmail.com>
 
 License:
 
